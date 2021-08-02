@@ -19,7 +19,11 @@ Is the risk of the yen expected to increase or decrease?
 Based on the model evaluation, would you feel confident in using these models for trading?
 
 Findings via analysis:
-GARCH Model has the lowest P Value, and hence it a good fit for timeseries forecasting of the dataframe. Given that GARCH model predicts that Variance is going to increase for Yen vs Dollar, hence Risk of Forex conversion is more in future for a portfolio that holds Yen. Hence, it would be advisable not to buy Yen now. I would feel confident is utilizing these models for trading based on best fit approach.
+GARCH Model has the lowest P Value, and hence it a good fit for timeseries forecasting of the dataframe. 
+
+Given that GARCH model predicts that Variance is going to increase for Yen vs Dollar, the Risk of Forex conversion is more in future for a portfolio that holds Yen. Hence, it would be advisable not to buy Yen now. 
+
+I would feel confident is utilizing these models for trading based on best fit approach.
 
 ```
 
